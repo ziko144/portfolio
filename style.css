@@ -82,6 +82,7 @@ header nav a:hover::before{
     text-align: start;
     position: relative;
     color: white;
+    display: inline-block;
 }
 .text-box .skills{
     color: var(--aqua-color);
